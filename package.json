@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "Hightower",
+  "dependencies": {
+    "serialport": "^1.4.0",
+    "google-spreadsheet": "^0.2.8",
+    "google-spreadsheets": "^0.3.0"
+  }
+}
